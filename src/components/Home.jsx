@@ -9,7 +9,9 @@ export default function Home() {
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
-        background:"navy"
+        background:"black",
+        color:"wheat"
+
       }}
     >
       <p style={{width:"70%"}}>
