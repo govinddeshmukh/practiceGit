@@ -9,8 +9,8 @@ export default function Home() {
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
-        background:"red",
-        color:"wheat"
+        background:"maroon",
+        color:"wheat",
 
       }}
     >
