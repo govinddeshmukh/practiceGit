@@ -9,7 +9,7 @@ export default function Home() {
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
-        background:"black",
+        background:"red",
         color:"wheat"
 
       }}
